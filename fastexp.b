@@ -1,5 +1,4 @@
-Define LibPub fastexp(x,y) = 
-Func
+Define LibPub fastexp(x,y) = Func
 ©fastexp(x,y) = x^y
 Local p
 Local s
